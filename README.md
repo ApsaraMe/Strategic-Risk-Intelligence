@@ -35,7 +35,7 @@ The dashboard enables users to evaluate bank performance, compare institutions, 
 
 ## Live Demo
 
-Coming soon
+(https://strategic-risk-intelligence-npopwkhc4mfahgb6cbqk3a.streamlit.app/)
 
 ## Author
 
